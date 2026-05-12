@@ -46,7 +46,5 @@ ATU-Doping-Analysis-Kenya/
 - Page 3: Clean Sport Interventions
 
 ## Author
-[Your Name]
-Data Analyst | Kenya
-[Your LinkedIn Profile]
-[Your GitHub Profile]
+Erick Mitere
+Sports Data Analyst | Kenya
